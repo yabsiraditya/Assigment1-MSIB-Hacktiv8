@@ -1,0 +1,12 @@
+body {
+  font-family: 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.nav-link {
+  margin-right: 30px;
+}
