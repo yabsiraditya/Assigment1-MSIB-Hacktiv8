@@ -6,6 +6,9 @@ a {
   text-decoration: none;
 }
 
+img .product {
+    height: 200px;
+}
 
 .nav-link {
   margin-right: 30px;
